@@ -1,0 +1,32 @@
+form {
+    display: grid;
+    gap: 10px;
+
+}
+
+form label {
+    margin-bottom: 5px;
+
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+
+}
+
+form button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+form button:hover {
+    background: #555;
+
+}

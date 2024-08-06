@@ -1,0 +1,30 @@
+#projects h2{
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+
+}
+
+#projects ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+#projects ul li {
+    background:  #eaeaea;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    border-left: 4px solid #333;
+
+}
+
+#projects ul li h3 {
+    font-size: 1.2em;
+    color: #333;
+}
+
+#projects ul li p {
+    font-size: 0.9em;
+    color: #666;
+}
